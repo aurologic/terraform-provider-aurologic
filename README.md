@@ -1,2 +1,14 @@
 # terraform-provider-aurologic
-aurologic terraform provider
+
+aurologic GmbH - Terraform Provider
+
+## Planned implementation
+
+- Cloud Server
+- DDoS-Protection
+- Dedicated Server
+- IP-Subnets
+
+## Requirements
+
+tbd
